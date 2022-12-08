@@ -6,7 +6,7 @@ height: 100%
 body {
     margin: 0;
     padding: 0;
-    background-image: url(https://picsum.photos/300/400);
+    background-image: url(https://i.imgur.com/A0Kehz8.jpg);
     background-size: cover;
     padding-bottom: 120px;
 }
@@ -14,8 +14,8 @@ body {
 
 .contact {
     margin: 100px 100px;
-    height: 500px;
-    background-color: white;
+    height: 600px;
+    background-color: rgba(217, 215, 216, 0.4);
     border-radius: 5px;
 }
 
@@ -52,14 +52,14 @@ h1 {
 @media (min-width: 48em) {
   .contact {
     margin: 100px 100px;
-    height: 500px;
-    background-color: white;
+    height: 600px;
+    background-color: rgba(217, 215, 216, 0.4);
     border-radius: 5px;
   }
   /* Add a background color and some padding around the form */
   .purchase {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: rgba(217, 215, 216, 0.4);
     padding: 20px;
     margin: 0 auto;
     width: 80%;

@@ -6,14 +6,16 @@ height: 100%
 body {
     margin: 0;
     padding: 0;
-    background-image: url(https://picsum.photos/300/400);
+    background-image: url(https://i.imgur.com/A0Kehz8.jpg);
     background-size: cover;
     padding-bottom: 120px;
 }
 
 
+
 .home {
-    padding-top: 40px;
+    margin: 100px;
+    background-color: rgba(217, 215, 216, 0.4);
 }
 
 footer {
@@ -32,7 +34,7 @@ h1 {
 }
 
 .greeting {
-    padding-top: 100px;
+    padding-top: 80px;
     display: block;
     max-width: 700px;
     margin: 0 auto;
@@ -57,7 +59,7 @@ h1 {
 
 @media (min-width: 48em) {
   .greeting {
-    padding-top: 170px;
+    padding-top: 100px;
     display: block;
     max-width: 700px;
     margin: 0 auto;
